@@ -1,3 +1,9 @@
+# Dashboard Preview
+
+![Dashboard Preview] <img width="1039" height="657" alt="Screenshot 2026-05-06 193556" src="https://github.com/user-attachments/assets/4842c846-3040-4a68-98bd-a99b70b8ee02" />
+
+
+---
 # amazon-product-sales-dashboard
 
 Developed an interactive Power BI dashboard to analyze Amazon product sales performance using KPI-driven analytics. Visualized YTD/QTD sales, product trends, customer reviews, and category insights with dynamic charts, DAX measures, and interactive filters for business decision-making.
